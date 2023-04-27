@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944497162835",
+    "project_id": "patika-67b47",
+    "storage_bucket": "patika-67b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944497162835:android:cfb4f3f8e9f929160be4a6",
+        "android_client_info": {
+          "package_name": "com.DukkanApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944497162835-pajpgje11hcptb4u0ukc9vucgbi462ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdWOOWplyZvECS51sijHfKez9wFuA6144"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944497162835-pajpgje11hcptb4u0ukc9vucgbi462ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

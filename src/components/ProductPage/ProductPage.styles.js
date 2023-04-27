@@ -2,9 +2,9 @@ import {StyleSheet} from 'react-native';
 
 export default StyleSheet.create({
   container: {
+    backgroundColor: '#e8e8e8',
     borderWidth: 1,
     borderColor: '#bdbdbd',
-    backgroundColor: '#e0e0e0',
     margin: 10,
     flexDirection: 'row',
   },
@@ -19,6 +19,7 @@ export default StyleSheet.create({
     flex: 1,
     justifyContent: 'space-between',
   },
+
   title: {
     fontWeight: 'bold',
     fontSize: 18,
@@ -26,6 +27,12 @@ export default StyleSheet.create({
   price: {
     textAlign: 'right',
     fontSize: 16,
-    fontStyle: 'normal',
+    fontStyle: 'italic',
+    fontWeight: 'bold',
+  },
+  rating: {
+    fontSize: 15,
+    fontStyle: 'italic',
+    color: '#ffc000',
   },
 });
